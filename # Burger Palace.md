@@ -5,7 +5,7 @@ Ian Otieno.
 This is a website that shows designed modern Burger Palace.It comprises  of all information on a project that I have worked on and the experience gained.
 
 ## setup/installation
-Click on the link  bellow to view the site;
+Click on the link  bellow to view the site;https://ian-otieno.github.io/-Burger-Palace/
 ## Todo list
 Description<bbr>
 Installation Requirement<br>
