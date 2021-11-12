@@ -108,7 +108,7 @@ padding-left: 100px;
 .menu1, .menu2{
    display: flex;
    width: 90%;
-   height: 600px;
+   height: 700px;
    justify-content: space-evenly;
    padding-left: 100px;
    
@@ -131,7 +131,8 @@ padding-left: 100px;
    width: 250px;
    height: 210px;
    align-items: center;
-   padding-left: 30px;
+   padding-left: 150px;
+   padding-top: 150px;
 }
 #price{
    margin-left: 20px;
