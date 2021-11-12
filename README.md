@@ -1,11 +1,11 @@
 # Burger Palace
-This is a modern Burger Palacewebsite designed on the 8/11/2020 by 
+This is a modern Burger Palace website designed on the 8/11/2020 by 
 Ian Otieno.
 ## Description
 This is a website that shows designed modern Burger Palace.It comprises  of all information on a project that I have worked on and the experience gained.
 
 ## setup/installation
-Click on the link  bellow to view the site;
+Click on the link  bellow to view the site;https://ian-otieno.github.io/-Burger-Palace/
 ## Todo list
 Description<bbr>
 Installation Requirement<br>
