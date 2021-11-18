@@ -1,5 +1,5 @@
 # Burger Palace
-This is a modern Burger Palace website designed on the 12/11/2020 by 
+This is a modern Burger Palace website designed on the 12/11/2021 by 
 Ian Otieno.
 ## Description
 This is a website that shows designed modern Burger Palace.It comprises  of all information on a project that I have worked on and the experience gained.
