@@ -20,9 +20,8 @@ li {
 
 li a {
     display: block;
-    color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 45px;
     text-decoration: none;
     color: black;
 }
@@ -68,7 +67,7 @@ li a {
     color: #F6B400;
 }
 .content {
-    background: linear-gradient(110deg, #FFFFFF 60%, #F6B400 60%);
+    background: linear-gradient(110deg, #FFFFFF 65%, #F6B400 65%);
     width: 100%;
     height: 700px;
 }
